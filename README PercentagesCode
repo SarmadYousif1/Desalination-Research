@@ -1,0 +1,32 @@
+README
+
+# Environmental Impacts of Brine Discharge from Desalination Plants
+
+This repository contains code for creating a pie chart that shows the percentage of environmental impacts of brine discharge from desalination plants.
+
+## Usage
+
+To use the code, you will need to install the following Python libraries:
+
+* matplotlib
+* numpy
+
+Once you have installed the libraries, you can run the code by running the following command:
+
+python
+python brine_discharge_pie_chart.py
+
+
+## Output
+
+The code will generate a pie chart that shows the following percentages:
+
+* Increased salinity: 50%
+* Decreased oxygen levels: 20%
+* Introduction of pollutants: 30%
+
+The pie chart will also show a combined text label that shows the total percentage of environmental impacts and some additional text.
+
+## License
+
+This code is licensed under the MIT License.
